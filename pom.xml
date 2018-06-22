@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.sourceforge.hatbox</groupId>
   <artifactId>hatbox</artifactId>
-  <version>1.0.b9</version>
+  <version>1.0.b10</version>
   <description>Spatial add-on for Derby and H2</description>
   <repositories>
     <repository>
