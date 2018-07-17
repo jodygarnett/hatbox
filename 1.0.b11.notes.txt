@@ -1,0 +1,3 @@
+Hatbox 1.0 beta 10 Release Notes
+
+- JTS upgraded to 1.15.0
