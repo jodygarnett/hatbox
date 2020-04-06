@@ -1,4 +1,5 @@
 Hatbox 1.0 beta 11 Release Notes
 
 - Remove java.sql package for Java 9 Compatability
-- Remove support for Java 5.
+- Remove support for Java 5, now building with 1.8
+- JTS upgraded to 1.16.1, and marked provided
